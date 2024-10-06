@@ -1,3 +1,5 @@
+# ##This is a copy for the purposes of importing into PiHole, below readme is not valid for this purpose## 
+
 # Host-List for iOS ad blockers
 Blocks Ads; Trackers; Annoyances and cryptomining services known to be running on iOS devices.
 
